@@ -1,2 +1,2 @@
 # Teospump
-Repository created autonomously  by Elmahrosa international 
+The repository was created autonomously  by Elmahrosa International 
