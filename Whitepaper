@@ -1,0 +1,36 @@
+# TeosPump Whitepaper
+
+## Introduction
+TeosPump is a decentralized launchpad built for Solana, focused on $TEOS meme and cultural tokens.  
+It enables users to create, launch, and distribute SPL tokens instantly, with full wallet integration and mobile app sync.
+
+## Features
+- Instant SPL token creation with custom name, symbol, decimals, supply
+- Pay network and launchpad fees in $TEOS
+- Mobile app sync for mining and launch notifications
+- Wallet integration (Phantom, Solflare, etc.)
+- Simple, transparent fee structure
+
+## Technical Overview
+
+### Smart Contracts & Backend
+- Uses Solana's SPL Token Program for minting and transfer
+- Backend (Node.js/Express) for mobile integration and token sending
+- RESTful API endpoints for mobile app to sync and request token actions
+
+### Frontend
+- Next.js/React UI for web
+- Live token creation form
+- Connect and authenticate wallet (via Solana wallet adapters)
+
+## Roadmap
+- ✅ MVP: Launchpad, wallet connect, token creation
+- ⏳ Advanced analytics, airdrop tools, DAO features
+- ⏳ Full mobile DApp launch
+
+## License
+MIT © 2025 Elmahrosa International
+
+## Contact
+Telegram: [@elmahrosapi](https://t.me/elmahrosapi)  
+Email: AAMS1969@gmail.com
