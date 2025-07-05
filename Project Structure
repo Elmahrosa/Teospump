@@ -1,0 +1,23 @@
+Teospump/
+├── backend/
+│   ├── package.json
+│   ├── tsconfig.json
+│   ├── src/
+│   │   ├── app.ts
+│   │   ├── routes/
+│   │   │   ├── mobile.ts
+│   │   │   └── token.ts
+│   │   └── utils/
+│   │       └── solana.ts
+├── pages/
+│   ├── index.tsx
+│   └── create-token.tsx
+├── utils/
+│   └── solana.ts
+├── public/
+│   └── logo.png
+├── package.json
+├── tsconfig.json
+├── next.config.js
+├── README.md
+└── WHITEPAPER.md
