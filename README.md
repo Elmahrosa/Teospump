@@ -10,7 +10,6 @@ Repository created autonomously by Elmahrosa international
 ![Visits](https://komarev.com/ghpvc/?username=Elmahrosa&label=Repo%20Views&color=brightgreen&style=flat)
 
 ---
-[![License](https://img.shields.io/github/license/Elmahrosa/TeosPump?color=brightgreen)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/Elmahrosa/TeosPump?style=social)](https://github.com/Elmahrosa/TeosPump/stargazers)
 [![Forks](https://img.shields.io/github/forks/Elmahrosa/TeosPump?style=social)](https://github.com/Elmahrosa/TeosPump/network/members)
 [![Issues](https://img.shields.io/github/issues/Elmahrosa/TeosPump)](https://github.com/Elmahrosa/TeosPump/issues)
