@@ -1,5 +1,20 @@
 # Teospump
 Repository created autonomously by Elmahrosa international
+# 🚀 TeosPump
+
+[![License](https://img.shields.io/github/license/Elmahrosa/TeosPump?color=brightgreen)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/Elmahrosa/TeosPump?style=social)](https://github.com/Elmahrosa/TeosPump/stargazers)
+[![Forks](https://img.shields.io/github/forks/Elmahrosa/TeosPump?style=social)](https://github.com/Elmahrosa/TeosPump/network/members)
+[![Issues](https://img.shields.io/github/issues/Elmahrosa/TeosPump)](https://github.com/Elmahrosa/TeosPump/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Elmahrosa/TeosPump)](https://github.com/Elmahrosa/TeosPump/pulls)
+[![Build with Solana](https://img.shields.io/badge/Built%20on-Solana-9945FF.svg?logo=solana)](https://solana.com)
+[![Powered by Elmahrosa](https://img.shields.io/badge/Powered%20by-Elmahrosa%20International-orange)](https://teosegypt.com)
+[![Follow on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue?logo=telegram)](https://t.me/elmahrosapi)
+
+---
+
+**Autonomously built by [Elmahrosa International](https://teosegypt.com)**  
+Decentralized Launchpad for **$TEOS** and cultural tokens on **Solana**.
 
 # 🚀 TeosPump
 
