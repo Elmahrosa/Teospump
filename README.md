@@ -2,6 +2,14 @@
 Repository created autonomously by Elmahrosa international
 # 🚀 TeosPump
 
+### 📈 Repo Insights
+
+![Repo Size](https://img.shields.io/github/repo-size/Elmahrosa/TeosPump)
+![Last Commit](https://img.shields.io/github/last-commit/Elmahrosa/TeosPump)
+![Contributors](https://img.shields.io/github/contributors/Elmahrosa/TeosPump)
+![Visits](https://komarev.com/ghpvc/?username=Elmahrosa&label=Repo%20Views&color=brightgreen&style=flat)
+
+---
 [![License](https://img.shields.io/github/license/Elmahrosa/TeosPump?color=brightgreen)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/Elmahrosa/TeosPump?style=social)](https://github.com/Elmahrosa/TeosPump/stargazers)
 [![Forks](https://img.shields.io/github/forks/Elmahrosa/TeosPump?style=social)](https://github.com/Elmahrosa/TeosPump/network/members)
@@ -102,6 +110,15 @@ MIT License © 2025 **Elmahrosa International**
 - 💬 Telegram: [@elmahrosapi](https://t.me/elmahrosapi)  
 - 📧 Email: [AAMS1969@gmail.com](mailto:AAMS1969@gmail.com)  
 - 🧱 GitHub: [Elmahrosa](https://github.com/Elmahrosa)
+
+---
+
+### 📈 Repo Insights
+
+![Repo Size](https://img.shields.io/github/repo-size/Elmahrosa/TeosPump)
+![Last Commit](https://img.shields.io/github/last-commit/Elmahrosa/TeosPump)
+![Contributors](https://img.shields.io/github/contributors/Elmahrosa/TeosPump)
+![Visits](https://komarev.com/ghpvc/?username=Elmahrosa&label=Repo%20Views&color=brightgreen&style=flat)
 
 ---
 
